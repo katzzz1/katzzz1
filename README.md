@@ -10,9 +10,7 @@ Hi! I'm **Katia Malena Pardo**, a Systems Analyst student from Argentina current
 
 * **I'm interested in IT Support, Cybersecurity, Software Development, and Database Management**
 
-- ༺✦༻ I'm currently learning ༺✦༻
-
-### 🌙 Currently Studying
+### ༺✦༻ Currently Studying ༺✦༻
 
 - ☾ Java
 - ☾ MySQL
