@@ -17,19 +17,6 @@ Hi! I'm **Katia Malena Pardo**, a Systems Analyst student from Argentina current
 - ☾ Web Development (HTML & CSS)
 - ☾ Software Engineering
 
-### 🦇 Technical Skills
-
-- ☾ Computer Assembly & Maintenance
-- ☾ Hardware and Software Troubleshooting
-- ☾ Operating System Installation & Configuration
-- ☾ Administrative Data Management
-- ☾ Cybersecurity Fundamentals
-
-### 🌍 Tongues I Speak
-- Spanish     
-- English     
-- Portuguese
-
 ### 🖤 Beyond The Screen
 When the moon rises and the code rests, you'll find me:
 
